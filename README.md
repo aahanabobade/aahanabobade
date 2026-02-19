@@ -135,6 +135,18 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aahanabobade&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
+<br/><br/>
+
+## 🐍 Swallowing My Contributions
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
 </div>
 
 <br/>
