@@ -123,9 +123,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aahanabobade&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d001a&title_color=ff6fd8&icon_color=a855f7&text_color=e9d5ff&border_radius=16" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aahanabobade&theme=2077" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahanabobade&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d001a&title_color=ff6fd8&text_color=e9d5ff&border_radius=16" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aahanabobade&theme=2077" height="170"/>
 
 <br/><br/>
 
@@ -161,6 +161,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20aahana&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=Made%20with%20%E2%99%A5%20by%20Aahana&fontSize=20&fontColor=000000&animation=fadeIn" width="100%"/>
 
 </div>
