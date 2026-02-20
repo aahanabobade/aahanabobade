@@ -10,9 +10,9 @@
 
 <br/>
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
 ## 💜 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
 &nbsp;&nbsp;Hi! I'm **Aahana**, a software developer who lives at the  
 &nbsp;&nbsp;crossroads of **backend engineering**, **AI/ML**, and **data science**.
@@ -40,7 +40,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahana-bobade)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aahanabobade@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aahanabobade)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aahanabobade)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aahanabobade)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aahanabobade)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aahanabobade1)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aahanabobade/)&nbsp;
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aahana.bobade/vizzes)
 
 </div>
 
@@ -161,6 +166,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=Made%20with%20%E2%99%A5%20by%20Aahana&fontSize=20&fontColor=000000&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20aahana&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
